@@ -27,13 +27,13 @@ Los estudiantes de la Universidad Nacional de Chimborazo.
 
 ## Integrantes y roles
 
-- Líder de Proyecto: Pablo Teran
+- Líder de Proyecto: Andy Nevarez
 
 - Diseñador Digital: Juan Ruiz
 
 - Documentador(es): Klever Castillo & William Macias
 
-- Administrador GitHub: Andy Nevarez
+- Administrador GitHub: Pablo Teran
 
 ---
 
