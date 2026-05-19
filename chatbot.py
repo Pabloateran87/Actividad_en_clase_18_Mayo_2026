@@ -15,7 +15,7 @@ import os
 from io import BytesIO
 from datetime import datetime
 import uuid
-
+ 
 # Importaciones para RAG (Recuperación de contexto desde PDFs)
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
