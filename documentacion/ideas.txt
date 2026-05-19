@@ -1,0 +1,15 @@
+funciones principales
+Brindar un espacio seguro y práctico para que las personas puedan reflexionar, recibir orientación y trabajar en habilidades de vida (comunicación, manejo de emociones, toma de decisiones).
+• ventajas
+	*Accesibilidad: se ejecuta en local, sin depender de plataformas externas.
+	*Privacidad: las sesiones se guardan en memoria del servidor y pueden exportarse a PDF, sin necesidad de compartir datos en la nube.
+	*Flexibilidad: se puede adaptar el contenido del PDF para personalizar el enfoque del asistente.
+	*Interactividad: chat en vivo con IA, más funciones de gestión de sesiones.
+	*Educativo: ideal para talleres, cursos o acompañamiento en habilidades socioemocionales.
+	
+• posibles mejoras futuras 
+
+	*Persistencia de sesiones: guardar conversaciones en base de datos para consultarlas después.
+	*Análisis de emociones: detectar tono emocional en los mensajes y dar retroalimentación más personalizada.
+	*Interfaz más rica: añadir gráficos, dashboards o visualizaciones de progreso.
+	*Multiplataforma: integración con apps móviles o mensajería (WhatsApp, Telegram).
