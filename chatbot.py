@@ -24,6 +24,7 @@ from langchain_chroma import Chroma
 # CONFIGURACIÓN INICIAL
 # ===================================================================
 
+
 load_dotenv()
 
 app = Flask(__name__)
