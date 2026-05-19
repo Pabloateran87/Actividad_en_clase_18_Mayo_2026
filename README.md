@@ -1,9 +1,39 @@
 # Actividad_en_clase_18_Mayo_2026
 GitHub
 
-# Chatbot de Habilidades para la Vida
+# Nombre del proyecto: Chatbot de Habilidades para la Vida
 
 Asistente de IA para apoyo emocional y desarrollo de habilidades personales usando OpenAI API y Flask.
+
+---
+
+## Objetivo
+
+Crear un chatbot de apoyo emocional para los estudiantes universitarios. 
+
+---
+
+## Problema que resuelve
+
+Brinda un apoyo extra a los estudiantes para que puedan manejar su vida estudiantil de una mejor forma.
+
+---
+
+## Público objetivo
+
+Los estudiantes de la Universidad Nacional de Chimborazo. 
+
+---
+
+## Integrantes y roles
+
+- Líder de Proyecto: Pablo Teran
+
+- Diseñador Digital: Juan Ruiz
+
+- Documentador(es): Klever Castillo & William Macias
+
+- Administrador GitHub: Andy Nevarez
 
 ---
 
@@ -62,11 +92,6 @@ python -c "import secrets; print(secrets.token_hex(32))"
 ```
 Copia el resultado y pégalo en .env junto a SECRET_KEY=
 
-### 5. Subir el PDF de principios
-
-Coloca tu archivo `principios.pdf` en la carpeta raíz del proyecto.
-
----
 
 ## Uso
 
@@ -155,8 +180,6 @@ pip install -r requirements.txt
 - Verifica que `.env` existe en la carpeta correcta
 - Verifica que el archivo tiene: `OPENAI_API_KEY=sk-proj-...`
 
-### Error: "principios.pdf not found"
-- Coloca el archivo `principios.pdf` en la raíz del proyecto
 
 ### La sesión se pierde al cerrar navegador
 - Esto es normal, es un cache local del navegador
@@ -176,16 +199,10 @@ pip install -r requirements.txt
 
 ---
 
-## Contacto
 
-Si tienes preguntas, crea un "Issue" en GitHub.
 
----
 
-## Licencia
 
-Este proyecto es para uso educativo dentro del grupo.
 
----
 
-**Última actualización**: Enero 2026
+
