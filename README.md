@@ -116,10 +116,13 @@ Abrirá automáticamente en: `http://localhost:5000`
 
 ```
 chatbot-habilidades/
-├── chatbot_habilidades_backend.py    # Backend principal
-├── templates/
-│   └── chatbot_habilidades.html      # Frontend
-├── principios.pdf                     # Base de conocimiento 
+├── chatbot.py    # Backend principal
+├── crear_vectores.py                # Cargar vectores a la base de datos
+├── templates/                         # Frontend
+├── chroma_db/                        # Base de datos vectorial
+├── documentacion/                    # Documentacion tecnica
+├── imagenes/                         # Elementos visuales del proyecto
+├── resources/                        # Material de entrenamiento el chatbot
 ├── .env                              # Variables secretas (NO SUBIR)
 ├── .gitignore                        # Archivos excluidos de Git
 ├── requirements.txt                  # Dependencias
